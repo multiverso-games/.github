@@ -1,13 +1,15 @@
 # Contributing
 
-[fork]: https://github.com/multiverso-games/.github/REPO/fork
-[pr]: https://github.com/multiverso-games/.github/REPO/compare
+[fork]: https://github.com/multiversogames/.github/REPO/fork
+[pr]: https://github.com/multiversogames/.github/REPO/compare
 [style]: https://github.com/styleguide/ruby
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
-## Translations
+## Traduções
 
-[English](./CONTRIBUTING.md)
+[Inglês](./CONTRIBUTING.md)
+
+---
 
 Olá! Estamos muito felizes que você gostaria de contribuir para este projeto. Sua ajuda é essencial para mantê-lo ótimo.
 
